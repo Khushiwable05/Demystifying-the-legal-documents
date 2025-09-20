@@ -87,7 +87,7 @@ st.markdown(
 st.markdown(
     """
     <div class="main-header">
-        <h1>Demystifty The Legal Document </h1>
+        <h1>Demystify The Legal Document </h1>
         <p>Upload documents and use the square tools below for quick domain-specific analysis.</p>
     </div>
     """,
